@@ -1,0 +1,48 @@
+Username: joud
+Type: account_creation
+Amount: 0
+Timestamp: 2025-04-28 15:34:49
+Details: {'phone': 787890654}
+----------------------------------
+Username: ahmad
+Type: account_creation
+Amount: 0
+Timestamp: 2025-04-28 15:36:36
+Details: {'phone': 780343282}
+----------------------------------
+Username: ahmad
+Type: account_creation
+Amount: 0
+Timestamp: 2025-04-28 15:41:36
+Details: {'phone': 780343282}
+----------------------------------
+Username: joud
+Type: account_creation
+Amount: 0
+Timestamp: 2025-04-28 15:42:18
+Details: {'phone': 780343281}
+----------------------------------
+Username: joud
+Type: deposit
+Amount: 65656.0
+Timestamp: 2025-04-28 15:43:06
+Details: {}
+----------------------------------
+Username: joud
+Type: transfer_out
+Amount: 233.0
+Timestamp: 2025-04-28 15:43:23
+Details: {'recipient': 'ahmad', 'recipient_phone': 780343282, 'direction': 'outgoing'}
+----------------------------------
+Username: ahmad
+Type: transfer_in
+Amount: 233.0
+Timestamp: 2025-04-28 15:43:23
+Details: {'sender': 'joud', 'sender_phone': 780343281, 'direction': 'incoming'}
+----------------------------------
+Username: joud
+Type: withdrawal
+Amount: 7890.0
+Timestamp: 2025-04-28 15:43:52
+Details: {}
+----------------------------------
