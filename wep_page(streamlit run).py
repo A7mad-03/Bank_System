@@ -45,7 +45,7 @@ def set_bg_image(local_image_path): #### to background image ####
         }}
         </style>
         """, unsafe_allow_html=True)
-set_bg_image(r"C:\Users\Ahmad\Desktop\VS code\Final Project\background_image.jpg")
+set_bg_image(r"background_image.jpg")
 
 
 ###### ملاحظة #########
